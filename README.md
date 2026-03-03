@@ -1,0 +1,2 @@
+# Codebase of Cookbook – Practical Solutions for Machine Learning on Python
+These repository is based on the book "Machine Learning with Python Cookbook. Practical Solutions from Preprocessing to Deep Learning" by Kyle Gallatin and Chris Albon
